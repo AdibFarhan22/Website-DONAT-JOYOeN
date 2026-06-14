@@ -15,7 +15,7 @@ const MENU_LIST = [
     topping:'Glazed cappuccino + drizzle coklat' },
   { id:'coklatSeres', nama:'Coklat Seres', emoji:'🍩', foto:'img/coklat-seres.jpg',
     deskripsi:'Donat klasik favorit semua kalangan! Dibalut coklat pekat dan ditaburi meses coklat melimpah dari atas hingga bawah.',
-    topping:'Glazed coklat pekat + meses coklat' },
+    topping:'Glazed coklat + meses coklat' },
   { id:'taro', nama:'Taro', emoji:'💜', foto:'img/taro.jpg',
     deskripsi:'Warna ungu cantik dengan rasa talas yang manis dan lembut. Pilihan unik yang selalu menarik perhatian dan enak dimakan!',
     topping:'Glazed taro ungu + sprinkles' },
