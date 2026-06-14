@@ -167,6 +167,7 @@ ${pilihan.join('\n')}
 ⏰ Waktu     : ${waktu}
 📝 Catatan   : ${catatan}
 ━━━━━━━━━━━━━━━━━━━
+`;
 
   window.open(`https://wa.me/${WA_NUMBER}?text=${encodeURIComponent(msg)}`, '_blank');
 }
