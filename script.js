@@ -168,8 +168,6 @@ ${pilihan.join('\n')}
 📝 Catatan   : ${catatan}
 ━━━━━━━━━━━━━━━━━━━
 
-Mohon konfirmasi & total harganya ya. Terima kasih! 🙏`;
-
   window.open(`https://wa.me/${WA_NUMBER}?text=${encodeURIComponent(msg)}`, '_blank');
 }
 
