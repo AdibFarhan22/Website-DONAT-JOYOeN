@@ -1,4 +1,4 @@
-const WA_NUMBER = '6283164333096';
+const WA_NUMBER = '62895603673165';
 
 const MENU_LIST = [
   { id:'matcha', nama:'Matcha', emoji:'🍵', foto:'img/matcha.jpg',
