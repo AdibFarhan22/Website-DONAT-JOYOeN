@@ -27,7 +27,7 @@ const MENU_LIST = [
     topping:'Glazed coklat gelap + drizzle putih' },
   { id:'orangeMangga', nama:'Orange Mangga', emoji:'🍊', foto:'img/orange-mangga.jpg',
     deskripsi:'Perpaduan segar jeruk dan mangga tropis dalam satu donat. Rasa buah yang manis dan asam bikin nagih!',
-    topping:'Glazed orange-mangga + drizzle coklat' },
+    topping:'Glazed orange-mangga + drizzle' },
   { id:'stawberry', nama:'Stawberry', emoji:'🍓', foto:'img/strawberry.jpg',
     deskripsi:'Donat pink manis dengan rasa stroberi segar yang kuat. Warnanya cantik dan toppingnya melimpah, cocok untuk semua usia.',
     topping:'Glazed stroberi pink + sprinkles' },
