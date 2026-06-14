@@ -167,7 +167,9 @@ ${pilihan.join('\n')}
 ⏰ Waktu     : ${waktu}
 📝 Catatan   : ${catatan}
 ━━━━━━━━━━━━━━━━━━━
-`;
+
+Terima kasih telah memesan di Donat JOYOeN! 😊
+Pesanan Anda telah kami terima dan sedang diproses.`;
 
   window.open(`https://wa.me/${WA_NUMBER}?text=${encodeURIComponent(msg)}`, '_blank');
 }
