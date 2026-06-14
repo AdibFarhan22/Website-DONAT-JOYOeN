@@ -9,7 +9,7 @@ const MENU_LIST = [
     topping:'Glazed coklat + kacang cincang' },
   { id:'tiramisu', nama:'Tiramisu', emoji:'☕', foto:'img/tiramisu.jpg',
     deskripsi:'Terinspirasi dari dessert Italia klasik. Rasa kopi lembut dengan sentuhan krim tiramisu yang memanjakan lidah.',
-    topping:'Glazed krim + drizzle coklat + bubuk kopi' },
+    topping:'Glazed krim + drizzle coklat' },
   { id:'capucino', nama:'Capucino', emoji:'🤎', foto:'img/capucino.jpg',
     deskripsi:'Donat dengan cita rasa cappuccino yang khas. Aroma kopi yang kuat dengan tekstur glazed yang lembut dan creamy.',
     topping:'Glazed cappuccino + drizzle coklat' },
@@ -18,10 +18,10 @@ const MENU_LIST = [
     topping:'Glazed coklat pekat + meses coklat' },
   { id:'taro', nama:'Taro', emoji:'💜', foto:'img/taro.jpg',
     deskripsi:'Warna ungu cantik dengan rasa talas yang manis dan lembut. Pilihan unik yang selalu menarik perhatian dan enak dimakan!',
-    topping:'Glazed taro ungu + sprinkles warna-warni' },
+    topping:'Glazed taro ungu + sprinkles' },
   { id:'bubblegum', nama:'Bubble Gum', emoji:'🩵', foto:'img/bouble-gum.jpg',
     deskripsi:'Donat biru cerah dengan rasa bubblegum yang manis dan segar. Tampilan mencolok yang paling disukai anak-anak!',
-    topping:'Glazed biru bubblegum + sprinkles warna-warni' },
+    topping:'Glazed biru bubblegum + sprinkles' },
   { id:'coklatGaris', nama:'Coklat Garis', emoji:'🍫', foto:'img/coklat-garis.jpg',
     deskripsi:'Donat coklat premium dengan motif garis putih yang elegan. Rasa coklat yang kaya dan tampilan yang menggugah selera.',
     topping:'Glazed coklat gelap + drizzle putih' },
@@ -30,7 +30,7 @@ const MENU_LIST = [
     topping:'Glazed orange-mangga + drizzle coklat' },
   { id:'stawberry', nama:'Stawberry', emoji:'🍓', foto:'img/strawberry.jpg',
     deskripsi:'Donat pink manis dengan rasa stroberi segar yang kuat. Warnanya cantik dan toppingnya melimpah, cocok untuk semua usia.',
-    topping:'Glazed stroberi pink + sprinkles warna-warni' },
+    topping:'Glazed stroberi pink + sprinkles' },
 ];
 
 let currentPaket = { jumlah: 0, harga: '' };
