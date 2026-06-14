@@ -19,7 +19,7 @@ const MENU_LIST = [
   { id:'taro', nama:'Taro', emoji:'💜', foto:'img/taro.jpg',
     deskripsi:'Warna ungu cantik dengan rasa talas yang manis dan lembut. Pilihan unik yang selalu menarik perhatian dan enak dimakan!',
     topping:'Glazed taro ungu + sprinkles warna-warni' },
-  { id:'boublegum', nama:'Bubble Gum', emoji:'🩵', foto:'img/bouble-gum.jpg',
+  { id:'bubblegum', nama:'Bubble Gum', emoji:'🩵', foto:'img/bouble-gum.jpg',
     deskripsi:'Donat biru cerah dengan rasa bubblegum yang manis dan segar. Tampilan mencolok yang paling disukai anak-anak!',
     topping:'Glazed biru bubblegum + sprinkles warna-warni' },
   { id:'coklatGaris', nama:'Coklat Garis', emoji:'🍫', foto:'img/coklat-garis.jpg',
