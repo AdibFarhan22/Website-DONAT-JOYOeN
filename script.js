@@ -10,7 +10,7 @@ const MENU_LIST = [
   { id:'tiramisu', nama:'Tiramisu', emoji:'☕', foto:'img/tiramisu.jpg',
     deskripsi:'Terinspirasi dari dessert Italia klasik. Rasa kopi lembut dengan sentuhan krim tiramisu yang memanjakan lidah.',
     topping:'Glazed krim + drizzle coklat' },
-  { id:'capucino', nama:'Capucino', emoji:'🤎', foto:'img/capucino.jpg',
+  { id:'cappuccino', nama:'Cappuccino', emoji:'🤎', foto:'img/capucino.jpg',
     deskripsi:'Donat dengan cita rasa cappuccino yang khas. Aroma kopi yang kuat dengan tekstur glazed yang lembut dan creamy.',
     topping:'Glazed cappuccino + drizzle coklat' },
   { id:'coklatSeres', nama:'Coklat Seres', emoji:'🍩', foto:'img/coklat-seres.jpg',
