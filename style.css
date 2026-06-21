@@ -459,6 +459,7 @@ section {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  object-position: center;
   transition: transform .3s;
 }
 
@@ -536,7 +537,7 @@ section {
 
 .paket-card-img {
   width: 100%;
-  height: 500px;
+  aspect-ratio: 1 / 1;
   border-radius: 10px;
   overflow: hidden;
   margin-bottom: 6px;
@@ -551,6 +552,7 @@ section {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  object-position: center;
   transition: transform .3s;
 }
 
@@ -1087,10 +1089,6 @@ footer {
   .footer-grid {
     grid-template-columns: 1fr 1fr;
   }
-
-  .paket-card-img {
-    height: 320px;
-  }
 }
 
 @media (max-width: 768px) {
@@ -1169,10 +1167,6 @@ footer {
 
   .paket-cards {
     grid-template-columns: 1fr;
-  }
-
-  .paket-card-img {
-    height: 260px;
   }
 
   .modal {
